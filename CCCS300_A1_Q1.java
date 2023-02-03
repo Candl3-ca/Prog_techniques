@@ -2,7 +2,7 @@
 * Name: 
 * StudentID: 
 *
-/
+*/
 
 public class CCCS300_A1_Q1 {
     public static void main(String[] args) {
